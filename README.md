@@ -96,5 +96,5 @@ The main function is responsible for collecting information and give these infor
 5. We use timefunc to make it refresh 25 times per second;
 
 ## Contact and Copywrite
-If you have any adivices or feedbacks, please email to <yansu@umich.edu> with \[ github_feedback \]. I will reply emails within two bussiness days. Since it is a open course project, there is no copywrites restriction on use or modify the code except [Compiling and Quick Start parts](#compiling-and-quick-start) of this readme file, which is based on material given by instructor and may be restricted to copywrite.
+If you have any adivices or feedbacks, please email to <yansu@umich.edu> with \[ github_feedback \]. I will reply emails within two bussiness days. Since it is a open course project, there is no copywrites restriction on use or modify the code except [Compiling and Quick Start parts](#compiling-and-quick-start) of this readme file, which is modified on material given by instructor and may be restricted to copywrite.
 
