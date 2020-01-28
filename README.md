@@ -3,7 +3,7 @@
 ## About
 This is my first C++ course project of the course VE101 as a freshman student at [University of Michigan-Shanghai Jiao Tong University Joint Institute](http://umji.sjtu.edu.cn/). It is a course designed for new engineers to design simple algorithms and understand the main concepts of programming. To be honest, the code style of this project is not good and there are countless bugs and perhaps some memory leaks in this project. It is posted to record the starting point of my coding career. Future modifications may be made. Following is the original readme wrote at that time. I transfer the original txt file into markdown to make it easier to read. There are many redundent descrptions, which I will fix later.
 
-## Compiling and Quick Star
+## Compiling and Quick Start
 ### Install OpenGL
 Due to the project requirement, this outdated version of OpenGL is used. Please kindly follow the instruction to install it.
 #### Windows (with MinGW)
@@ -96,5 +96,5 @@ The main function is responsible for collecting information and give these infor
 5. We use timefunc to make it refresh 25 times per second;
 
 ## Contact and Copywrite
-If you have any adivices or feedbacks, please email to <yansu@umich.edu> with \[ github_feedback \]. I will reply emails within two bussiness days. Since it is a open course project written on my own, there is no copywrites restriction on use or modify the code.
+If you have any adivices or feedbacks, please email to <yansu@umich.edu> with \[ github_feedback \]. I will reply emails within two bussiness days. Since it is a open course project, there is no copywrites restriction on use or modify the code except [Compiling and Quick Start parts](#compiling-and-quick-start) of this readme file, which is based on material given by instructor and may be restricted to copywrite.
 
