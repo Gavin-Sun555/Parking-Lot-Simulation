@@ -1,4 +1,6 @@
-# Parking-Lot-Simulation Program  BETA 0.4.1  (2018-08-07) 
+# Parking-Lot-Simulation Program  
+Version: BETA 0.4.1  (2018-08-07)    
+Version: BETA 0.4.2  (2021-03-06) 
 
 ## About
 This is my first C++ course project of the course VE101 as a freshman student at [University of Michigan-Shanghai Jiao Tong University Joint Institute](http://umji.sjtu.edu.cn/). It is a course designed for new engineers to design simple algorithms and understand the main concepts of programming. To be honest, the code style of this project is not good and there are countless bugs and perhaps some memory leaks in this project. It is posted to record the starting point of my coding career. Future modifications may be made. Following is the original readme wrote at that time. I transfer the original txt file into markdown to make it easier to read. There are many redundent descrptions, which I will fix later.
@@ -7,7 +9,7 @@ This is my first C++ course project of the course VE101 as a freshman student at
 ### Install OpenGL
 Due to the project requirement, this outdated version of OpenGL is used. Please kindly follow the instruction to install it.
 #### Windows (with MinGW)
-Download FreeGlut For [MinGW](https://www.transmissionzero.co.uk/files/software/development/GLUT/freeglut-MinGW.zip) and you can get the following directory structure:
+(Not Tested) Download FreeGlut For [MinGW](https://www.transmissionzero.co.uk/files/software/development/GLUT/freeglut-MinGW.zip) and you can get the following directory structure:
 ```
 freeglut 
   bin
@@ -56,14 +58,18 @@ i) copy the directory freeglut/include/GL into mingw32/include
 ii) copy the file freeglut/bin/freeglut.dll into mingw32/bin   
 iii) copythefilesfreeglut/lib/libfreeglut.aandfreeglut/lib/libfreeglut_static.aintomingw32/lib   
 #### Linux (Debian/Ubuntu)
-Run the following commands and then OpenGL will be installed automatically.
+(Not Tested) Run the following commands and then OpenGL will be installed automatically.
 ```
 $ sudo apt-get install build-essential
 $ sudo apt-get install libgl1-mesa-dev libglu1-mesa-dev freeglut3-dev
 ```
 #### MacOS (with LLVM/Clang)
-Since Gult is included in Mac OS X. There’s nothing you need to do for environment setup.
+For OS X version Under 10.14: Since Gult is included in Mac OS X. You can change all "#include <GLUT/glut.h>" with "#include <glut.h>"     
 
+For OS X version >= 10.14. Please first install FreeGlut with brew. Then, all set!
+```
+$ brew install freeglut
+```
 ### Setup Build Environment
 #### Build with CMake
 Download [CMakeLists.txt](https://github.com/Gavin-Sun555/Parking-Lot-Simulation/blob/master/P3_part_2/CMakeLists.txt)

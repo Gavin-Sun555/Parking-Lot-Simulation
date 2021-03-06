@@ -1,3 +1,1 @@
-C:\Users\BradWang\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\181.5540.8\bin\cmake\bin\cmake.exe -E remove -f CMakeFiles\OpenGL.dir/objects.a
-C:\wingw\mingw64\bin\ar.exe cr CMakeFiles\OpenGL.dir/objects.a @CMakeFiles\OpenGL.dir\objects1.rsp
-C:\wingw\mingw64\bin\g++.exe -Wall -Werror -pedantic -Wno-unused-result -g   -Wl,--whole-archive CMakeFiles\OpenGL.dir/objects.a -Wl,--no-whole-archive  -o OpenGL.exe -Wl,--out-implib,libOpenGL.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\OpenGL.dir\linklibs.rsp
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/OpenGL.dir/main.cpp.o CMakeFiles/OpenGL.dir/figures.cpp.o CMakeFiles/OpenGL.dir/parkinglot.cpp.o CMakeFiles/OpenGL.dir/carparking.cpp.o CMakeFiles/OpenGL.dir/display.cpp.o  -o OpenGL  -framework GLUT -framework Cocoa -framework OpenGL -framework OpenGL -lm 

@@ -169,7 +169,6 @@ public:
     Car(Vec pos, Vec anc);
     Car(){
         rec=NULL;
-        colored[3]=NULL;
     }
     void rotate(Vec* anc);
     virtual void draw();

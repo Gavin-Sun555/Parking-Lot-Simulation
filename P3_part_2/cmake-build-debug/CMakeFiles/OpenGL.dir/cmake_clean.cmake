@@ -1,13 +1,11 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/OpenGL.dir/main.cpp.obj"
-  "CMakeFiles/OpenGL.dir/figures.cpp.obj"
-  "CMakeFiles/OpenGL.dir/parkinglot.cpp.obj"
-  "CMakeFiles/OpenGL.dir/carparking.cpp.obj"
-  "CMakeFiles/OpenGL.dir/display.cpp.obj"
+  "CMakeFiles/OpenGL.dir/carparking.cpp.o"
+  "CMakeFiles/OpenGL.dir/display.cpp.o"
+  "CMakeFiles/OpenGL.dir/figures.cpp.o"
+  "CMakeFiles/OpenGL.dir/main.cpp.o"
+  "CMakeFiles/OpenGL.dir/parkinglot.cpp.o"
+  "OpenGL"
   "OpenGL.pdb"
-  "OpenGL.exe"
-  "OpenGL.exe.manifest"
-  "libOpenGL.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

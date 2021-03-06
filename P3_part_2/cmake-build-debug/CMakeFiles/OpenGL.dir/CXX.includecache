@@ -6,113 +6,53 @@
 
 #IncludeRegexTransform: 
 
-C:/wingw/mingw64/include/GL/freeglut.h
-freeglut_std.h
-C:/wingw/mingw64/include/GL/freeglut_std.h
-freeglut_ext.h
-C:/wingw/mingw64/include/GL/freeglut_ext.h
-
-C:/wingw/mingw64/include/GL/freeglut_ext.h
-stdarg.h
--
-
-C:/wingw/mingw64/include/GL/freeglut_std.h
-windows.h
--
-EGL/egl.h
--
-GLES/gl.h
--
-GLES2/gl2.h
--
-OpenGL/gl.h
--
-OpenGL/glu.h
--
-GL/gl.h
--
-GL/glu.h
--
-stdlib.h
--
-
-C:/wingw/mingw64/include/GL/glut.h
-freeglut_std.h
-C:/wingw/mingw64/include/GL/freeglut_std.h
-
-F:/VG101/Project_3/P3 ver.4/carparking.cpp
-carparking.h
-F:/VG101/Project_3/P3 ver.4/carparking.h
-
-F:/VG101/Project_3/P3 ver.4/carparking.h
-GL/freeglut.h
+/Users/sunyanyan/Desktop/old_code/Parking-Lot-Simulation/P3_part_2/carparking.h
+GLUT/glut.h
 -
 cmath
 -
 ctime
 -
 figures.h
-F:/VG101/Project_3/P3 ver.4/figures.h
+/Users/sunyanyan/Desktop/old_code/Parking-Lot-Simulation/P3_part_2/figures.h
 iostream
 -
 
-F:/VG101/Project_3/P3 ver.4/display.cpp
+/Users/sunyanyan/Desktop/old_code/Parking-Lot-Simulation/P3_part_2/display.h
+GLUT/glut.h
+-
+cmath
+-
+ctime
+-
+figures.h
+/Users/sunyanyan/Desktop/old_code/Parking-Lot-Simulation/P3_part_2/figures.h
+iostream
+-
+parkinglot.h
+/Users/sunyanyan/Desktop/old_code/Parking-Lot-Simulation/P3_part_2/parkinglot.h
+carparking.h
+/Users/sunyanyan/Desktop/old_code/Parking-Lot-Simulation/P3_part_2/carparking.h
+
+/Users/sunyanyan/Desktop/old_code/Parking-Lot-Simulation/P3_part_2/figures.h
+
+/Users/sunyanyan/Desktop/old_code/Parking-Lot-Simulation/P3_part_2/main.cpp
+GLUT/glut.h
+-
+cmath
+-
+ctime
+-
+figures.h
+/Users/sunyanyan/Desktop/old_code/Parking-Lot-Simulation/P3_part_2/figures.h
+iostream
+-
+parkinglot.h
+/Users/sunyanyan/Desktop/old_code/Parking-Lot-Simulation/P3_part_2/parkinglot.h
+carparking.h
+/Users/sunyanyan/Desktop/old_code/Parking-Lot-Simulation/P3_part_2/carparking.h
 display.h
-F:/VG101/Project_3/P3 ver.4/display.h
+/Users/sunyanyan/Desktop/old_code/Parking-Lot-Simulation/P3_part_2/display.h
 
-F:/VG101/Project_3/P3 ver.4/display.h
-GL/freeglut.h
--
-cmath
--
-ctime
--
-figures.h
-F:/VG101/Project_3/P3 ver.4/figures.h
-iostream
--
-parkinglot.h
-F:/VG101/Project_3/P3 ver.4/parkinglot.h
-carparking.h
-F:/VG101/Project_3/P3 ver.4/carparking.h
-
-F:/VG101/Project_3/P3 ver.4/figures.cpp
-GL/glut.h
--
-cmath
--
-figures.h
-F:/VG101/Project_3/P3 ver.4/figures.h
-
-F:/VG101/Project_3/P3 ver.4/figures.h
-
-F:/VG101/Project_3/P3 ver.4/main.cpp
-GL/freeglut.h
--
-cmath
--
-ctime
--
-figures.h
-F:/VG101/Project_3/P3 ver.4/figures.h
-iostream
--
-parkinglot.h
-F:/VG101/Project_3/P3 ver.4/parkinglot.h
-carparking.h
-F:/VG101/Project_3/P3 ver.4/carparking.h
-display.h
-F:/VG101/Project_3/P3 ver.4/display.h
-
-F:/VG101/Project_3/P3 ver.4/parkinglot.cpp
-GL/glut.h
--
-math.h
--
-cstdlib
--
-parkinglot.h
-F:/VG101/Project_3/P3 ver.4/parkinglot.h
-
-F:/VG101/Project_3/P3 ver.4/parkinglot.h
+/Users/sunyanyan/Desktop/old_code/Parking-Lot-Simulation/P3_part_2/parkinglot.h
 

@@ -1,8 +1,8 @@
-# Install script for directory: F:/VG101/Project_3/P3 ver.4
+# Install script for directory: /Users/sunyanyan/Desktop/old_code/Parking-Lot-Simulation/P3_part_2
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/OpenGL")
+  set(CMAKE_INSTALL_PREFIX "/usr/local")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "F:/VG101/Project_3/P3 ver.4/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/sunyanyan/Desktop/old_code/Parking-Lot-Simulation/P3_part_2/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

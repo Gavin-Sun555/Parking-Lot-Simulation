@@ -2,7 +2,6 @@ cmake_minimum_required(VERSION 2.7)
 project(OpenGL)
 
 set(CMAKE_CXX_STANDARD 14)
-set(CMAKE_CXX_FLAGS "-Wall -Werror -pedantic -Wno-unused-result")
 
 find_package(OpenGL REQUIRED)
 include_directories(${OPENGL_INCLUDE_DIR})
