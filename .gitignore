@@ -1,1 +1,14 @@
+# Build directories
+build/
+cmake-build-*/
+.cache/
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.DS_Store
+
+# Legacy build artifacts
 P3_part_2/cmake-build-debug/
+imgui.ini
